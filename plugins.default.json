@@ -1,7 +1,6 @@
 {
   "server": [
     "talk-plugin-featured-comments",
-    "talk-plugin-local-auth",
     "talk-plugin-profile-data",
     "talk-plugin-respect",
     "talk-plugin-facebook-auth",
@@ -13,7 +12,6 @@
     "talk-plugin-featured-comments",
     "talk-plugin-flag-details",
     "talk-plugin-ignore-user",
-    "talk-plugin-local-auth",
     "talk-plugin-member-since",
     "talk-plugin-moderation-actions",
     "talk-plugin-permalink",
