@@ -37,5 +37,6 @@
 .tabContainer {
   position: relative;
   margin-top: 28px;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
+  min-height: 0px;
 }
